@@ -51,7 +51,7 @@ Lightweight MPI profiling library that instruments individual point-to-point ope
 
 [NCCL](https://github.com/NVIDIA/nccl) is NVIDIA's standard library for GPU collectives (AllReduce, ReduceScatter, etc.). It is heavily optimized but topology-agnostic at the algorithm level — at scale, inter-node traffic over InfiniBand becomes the main bottleneck.
 
-[Bine trees](https://arxiv.org/pdf/2508.17311) improve communication locality intrinsically: more traffic stays on fast intra-node links (NVLink/NVSwitch), less spills over slow inter-node links. The thesis takes a preliminary flat implementation and evolves it into a hierarchical one that exploits the full memory hierarchy of clusters like Leonardo at CINECA, then benchmarks it against stock NCCL.
+Bine trees improve communication locality intrinsically: more traffic stays on fast intra-node links (NVLink/NVSwitch), less spills over slow inter-node links. The thesis takes a preliminary flat implementation and evolves it into a hierarchical one that exploits the full memory hierarchy of clusters like Leonardo at CINECA, then benchmarks it against stock NCCL.
 
 ---
 
