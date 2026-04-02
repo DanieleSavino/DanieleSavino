@@ -36,7 +36,7 @@ Currently working on my thesis under [Daniele De Sensi](https://github.com/Danie
 ### [CollAlgo](https://github.com/DanieleSavino/CollAlgo)
 Reference implementation of BiNE-based MPI collective algorithms (gather, gatherv, scatter, scatterv, broadcast, allgather, alltoall) in C. Built as a research testbed — clean, instrumented implementations to validate correctness and measure performance before the ideas land in NCCL.
 
-`C` `MPI` `OpenMP`
+`C` `MPI`
 
 ### [CollBench](https://github.com/DanieleSavino/CollBench)
 Lightweight MPI profiling library that instruments individual point-to-point operations with nanosecond-resolution timestamps (start, wait, completion). Records are aggregated across all ranks via `MPI_Gatherv` and exported as JSON. When built without `-DCB_PROFILE` everything compiles away — zero overhead in production.
