@@ -1,6 +1,6 @@
 # Daniele Savino
 
-> *This README was written with AI assistance and manually reviewed. The content accurately reflects my skills and experience — I just didn't want to spend an hour writing about myself.*
+> *This README was written with AI assistance and manually reviewed. The content accurately reflects my skills and experience.*
 
 3rd year Computer Science student at Sapienza Università di Roma. I like low-level code, parallel systems, and understanding why things are slow.
 
