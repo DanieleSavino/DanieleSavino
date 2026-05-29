@@ -1,6 +1,6 @@
 # Daniele Savino
 
-3rd year CS student at Sapienza, one year ahead. I like low-level code,
+3rd year CS student at Sapienza. I like low-level code,
 parallel systems, and understanding why things are slow.
 
 Currently working on my thesis under [Daniele De Sensi](https://github.com/DanieleDeSensi)
