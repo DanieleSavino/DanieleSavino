@@ -5,7 +5,7 @@ parallel systems, and understanding why things are slow.
 
 Currently working on my thesis under [Daniele De Sensi](https://github.com/DanieleDeSensi)
 — implementing BiNE collective algorithms in NCCL, targeting the multi-GPU
-memory hierarchy of modern HPC clusters. Competing at IndySCC in November 2025
+memory hierarchy of modern HPC clusters. Competing at IndySCC in November 2026
 with [@PlumJuice-HPC-Team](https://github.com/PlumJuice-HPC-Team).
 
 ## Skills
