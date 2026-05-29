@@ -19,6 +19,7 @@ Clusters: Leonardo (CINECA) · MareNostrum 5 (BSC) · MeluXina
 | Repo | What it is |
 |---|---|
 | [nccl](https://github.com/DanieleSavino/nccl) | NCCL fork implementing BiNE collective algorithms |
+| [unitccl](https://github.com/DanieleSavino/unitnccl) | Unit tests and scaling benchmarks for Bine tree collective algorithms in NCCL |
 | [CollAlgo](https://github.com/DanieleSavino/CollAlgo) | BiNE collective algorithms for MPI — CUDA-aware, profiling via CollBench |
 | [CollBench](https://github.com/DanieleSavino/CollBench) | C instrumentation library for MPI collectives — nanosecond timing, zero overhead without -DCB_PROFILE |
 | [fastest](https://github.com/DanieleSavino/fastest) | C testing framework — run standalone or load as a Python extension |
