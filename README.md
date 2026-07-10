@@ -11,5 +11,5 @@ with [@PlumJuice-HPC-Team](https://github.com/PlumJuice-HPC-Team).
 ## Skills
 
 C · C++ · CUDA · MPI · OpenMP · Python  
-Profiling: Score-P / Scalasca / Cube · perf / PAPI  
+Profiling: Score-P / Scalasca / Cube · perf / PAPI · Nvidia nsights / nsys
 Clusters: Leonardo (CINECA) · MareNostrum 5 (BSC) · MeluXina
