@@ -6,7 +6,7 @@ parallel systems and profiling.
 - Currently working on my thesis under [Daniele De Sensi](https://github.com/DanieleDeSensi)
 implementing BiNE collective algorithms in NCCL.
 - Competing at SCC connect in November 2026
-with [@PlumJuice-HPC-Team](https://github.com/PlumJuice-HPC-Team).
+with [PlumJuice](https://github.com/PlumJuice-HPC-Team).
 
 ## Skills
 
